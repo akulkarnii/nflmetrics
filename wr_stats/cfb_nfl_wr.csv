@@ -1,30 +1,27 @@
 player,school,conf,g,rec,yds,avg,td,team,points,dyar
 Justin Jefferson,LSU,SEC,15,111,1540,13.9,18,Minnesota Vikings,275.44,414
-Ja'Marr Chase,LSU,SEC,14,84,1780,21.2,20,Cincinnati Bengals,264.1,324
-Michael Pittman Jr.,USC,Pac-12,13,101,1275,12.6,11,Indianapolis Colts,194.6,201
-CeeDee Lamb,Oklahoma,Big 12,13,62,1327,21.4,14,Dallas Cowboys,193.3,204
-Jaylen Waddle,Alabama,SEC,13,33,560,17,6,Miami Dolphins,187.6,145
-Amon-Ra St. Brown,USC,Pac-12,13,77,1042,13.5,6,Detroit Lions,182.3,181
 Tee Higgins,Clemson,ACC,15,59,1167,19.8,13,Cincinnati Bengals,182.1,332
-Darnell Mooney,Tulane,American,13,48,713,14.9,5,Chicago Bears,171.7,53
-DeVonta Smith,Alabama,SEC,13,68,1256,18.5,14,Philadelphia Eagles,153.6,165
-Van Jefferson,Florida,SEC,12,49,657,13.4,6,Los Angeles Rams,143.2,83
+Ja'Marr Chase,LSU,SEC,14,84,1780,21.2,20,Cincinnati Bengals,264.1,324
 Brandon Aiyuk,Arizona State,Pac-12,12,65,1192,18.3,8,San Francisco 49ers,142.3,217
-Chase Claypool,Notre Dame,Ind,13,66,1037,15.7,13,Pittsburgh Steelers,137.1,63
-Marquez Callaway,Tennessee,SEC,13,30,635,21.2,6,New Orleans Saints,128.8,103
-Elijah Moore,Ole Miss,SEC,12,67,850,12.7,6,New York Jets,116.7,22
-Gabriel Davis,UCF,American,12,72,1241,17.2,12,Buffalo Bills,108.4,110
-Laviska Shenault Jr.,Colorado,Pac-12,11,56,764,13.6,4,Jacksonville Jaguars,95.5,-112
-Quez Watkins,Southern Mississippi,CUSA,12,64,1178,18.4,6,Philadelphia Eagles,94.5,79
+CeeDee Lamb,Oklahoma,Big 12,13,62,1327,21.4,14,Dallas Cowboys,193.3,204
+Michael Pittman Jr.,USC,Pac-12,13,101,1275,12.6,11,Indianapolis Colts,194.6,201
+Amon-Ra St. Brown,USC,Pac-12,13,77,1042,13.5,6,Detroit Lions,182.3,181
+DeVonta Smith,Alabama,SEC,13,68,1256,18.5,14,Philadelphia Eagles,153.6,165
+Jaylen Waddle,Alabama,SEC,13,33,560,17,6,Miami Dolphins,187.6,145
 Bryan Edwards,South Carolina,SEC,10,71,816,11.5,6,Las Vegas Raiders,92.1,112
+Gabriel Davis,UCF,American,12,72,1241,17.2,12,Buffalo Bills,108.4,110
 Rashod Bateman,Minnesota,Big Ten,13,60,1219,20.3,11,Baltimore Ravens,80.5,109
+Marquez Callaway,Tennessee,SEC,13,30,635,21.2,6,New Orleans Saints,128.8,103
+Van Jefferson,Florida,SEC,12,49,657,13.4,6,Los Angeles Rams,143.2,83
+Quez Watkins,Southern Mississippi,CUSA,12,64,1178,18.4,6,Philadelphia Eagles,94.5,79
+Chase Claypool,Notre Dame,Ind,13,66,1037,15.7,13,Pittsburgh Steelers,137.1,63
+Darnell Mooney,Tulane,American,13,48,713,14.9,5,Chicago Bears,171.7,53
+Jerry Jeudy,Alabama,SEC,13,77,1163,15.1,10,Denver Broncos,66,53
+Elijah Moore,Ole Miss,SEC,12,67,850,12.7,6,New York Jets,116.7,22
+Nico Collins,Michigan,Big Ten,12,37,729,19.7,7,Houston Texans,67.1,16
 Henry Ruggs III,Alabama,SEC,12,40,746,18.7,7,Las Vegas Raiders,72.5,0
 Jauan Jennings,Tennessee,SEC,13,59,969,16.4,8,San Francisco 49ers,70.2,0
-Nico Collins,Michigan,Big Ten,12,37,729,19.7,7,Houston Texans,67.1,16
 Devin Duvernay,Texas,Big 12,13,106,1386,13.1,9,Baltimore Ravens,66.6,0
-Jerry Jeudy,Alabama,SEC,13,77,1163,15.1,10,Denver Broncos,66,53
-Jalen Reagor,TCU,Big 12,12,43,611,14.2,5,Philadelphia Eagles,61.6,-42
-Tyler Johnson,Minnesota,Big Ten,13,86,1318,15.3,13,Tampa Bay Buccaneers,54,-30
 Quintez Cephus,Wisconsin,Big Ten,14,59,901,15.3,7,Detroit Lions,41.9,0
 Kendall Hinton,Wake Forest,ACC,11,73,1001,13.7,4,Denver Broncos,31.04,0
 Ihmir Smith-Marsette,Iowa,Big Ten,13,44,722,16.4,5,Minnesota Vikings,26.1,0
@@ -37,3 +34,6 @@ Ja'Marcus Bradley,Louisiana,Sun Belt,13,60,906,15.1,10,Cleveland Browns,8.4,0
 Jaelon Darden,North Texas,CUSA,12,76,736,9.7,12,Tampa Bay Buccaneers,8.4,0
 Cody White,Michigan State,Big Ten,13,66,922,14,6,Pittsburgh Steelers,5.8,0
 Seth Williams,Auburn,SEC,12,59,830,14.1,8,Denver Broncos,3.9,0
+Tyler Johnson,Minnesota,Big Ten,13,86,1318,15.3,13,Tampa Bay Buccaneers,54,-30
+Jalen Reagor,TCU,Big 12,12,43,611,14.2,5,Philadelphia Eagles,61.6,-42
+Laviska Shenault Jr.,Colorado,Pac-12,11,56,764,13.6,4,Jacksonville Jaguars,95.5,-112
